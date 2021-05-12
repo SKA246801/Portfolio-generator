@@ -11,3 +11,4 @@ fs.writeFile('index.html', generatePage(name, github), err => {
   
   console.log('Complete ')
 })
+
